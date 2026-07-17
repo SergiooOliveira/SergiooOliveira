@@ -28,13 +28,4 @@ Bachelor's in Digital Game Development Engineering, now starting a Master's in I
 
 ---
 
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SergiooOliveira&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sérgio's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiooOliveira&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
 📫 [LinkedIn](https://www.linkedin.com/in/sergiooliveira908/) · [sergioooliveira908@gmail.com](mailto:sergioooliveira908@gmail.com)
