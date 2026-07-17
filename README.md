@@ -1,6 +1,6 @@
 # Hey, I'm Sérgio 👋
 
-**Game Development Engineer → Software Engineer**, based in Braga, Portugal.
+**Game Development Engineer → Software Engineer**, based in Joane, Portugal.
 
 Bachelor's in Digital Game Development Engineering, now starting a Master's in Informatics Engineering. Comfortable working across game development and full-stack engineering — from Unity gameplay code to full-stack platforms in .NET and Blazor.
 
